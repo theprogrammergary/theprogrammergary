@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-family: 'Terminus', sans-serif;">
+<h1 style="align: center;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <a target="_blank">
       <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="50px">
