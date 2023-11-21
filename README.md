@@ -5,7 +5,7 @@
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="40px">
   </a>
-  <span style="margin-top: auto;">My name is Gary.</span>
+  <span style="margin-top: 10px;">My name is Gary.</span>
 </h1>
 
 
