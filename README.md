@@ -1,12 +1,11 @@
-<h1 style="text-align: center; font-family: 'Terminus', sans-serif; display: flex; flex-direction: column; align-items: center;">
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px">
-  </a>
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="40px">
-  </a>
-  <span style="margin-bottom: 40px;">My name is Gary.</span>
-</h1>
+<div style="text-align: center;">
+  <div style="display: inline-block; position: relative;">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" style="vertical-align: bottom;">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="40px" style="vertical-align: bottom;">
+    <span style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);">, my name is Gary.</span>
+  </div>
+</div>
+
 
 
 
