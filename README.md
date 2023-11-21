@@ -3,10 +3,10 @@
 <div align="center">
   <h1>
     <a target="_blank">
-      <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="50px">
+      <img src="https://github.com/theprogrammergary/theprogrammergary/blob/main/src/Hi.gif" width="50px">
     </a>
     <a target="_blank">
-      <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="50px">
+      <img src="https://github.com/theprogrammergary/theprogrammergary/blob/main/src/Earth.gif" width="50px">
     </a>
     <br><br>
   <div style="text-align: right;">	I'm Gary 👨🏼‍💻</div>
