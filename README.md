@@ -1,11 +1,10 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="24px" />
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="24px">
   </a>
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px">
   </a>
-  I am Gary!
 </h1>
 
 
