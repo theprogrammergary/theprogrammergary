@@ -1,14 +1,17 @@
-<h1 style="align: center;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
+<div align="center">
+  <h1>
     <a target="_blank">
       <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="50px">
     </a>
     <a target="_blank">
       <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="50px">
     </a>
-  </div>
-  <div style="text-align: center;">I'm Gary.</div>
-</h1>
+  <div style="text-align: right;">	I'm Gary 👨🏼‍💻</div>
+  </h1>
+</div>
+
+
+
 
 
 
