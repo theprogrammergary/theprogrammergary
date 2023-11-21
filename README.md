@@ -11,7 +11,7 @@
     <br><br>
   <div style="text-align: center;">	I'm Gary 👨🏼‍💻</div>
   <div align=center>
-    <a href="theprogrammergary@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit" alt="Email" />
+    <a href="mailto:theprogrammergary@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit" alt="Email" />
     </a>
     <a href="https://t.me/+hqSbQlCLmD1kNGJh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
