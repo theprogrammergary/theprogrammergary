@@ -6,10 +6,10 @@
     <a target="_blank">
       <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="50px">
     </a>
+    <br><br>
   <div style="text-align: right;">	I'm Gary 👨🏼‍💻</div>
   </h1>
 </div>
-
 
 
 
