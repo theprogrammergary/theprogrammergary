@@ -7,7 +7,7 @@
       <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="50px">
     </a>
   </div>
-  <div style="text-align: center;">My name is Gary.</div>
+  <div style="text-align: center;">I'm Gary.</div>
 </h1>
 
 
