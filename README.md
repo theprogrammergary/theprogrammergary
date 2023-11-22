@@ -1,5 +1,4 @@
  <h1></h1>
- <br><br>
 <div align="center">
   <h2>
     <a target="_blank">
@@ -8,11 +7,9 @@
     <a target="_blank">
       <img src="https://github.com/theprogrammergary/theprogrammergary/blob/main/src/Earth.gif" width="40px">
     </a>
-    <br><br>
   <div style="text-align: center;">I'm Gary
   <p style="text-align: center;">I used to play sports ⚾️ ...now I play computers 👨🏼‍💻</p>
   </div>
-  <br><br>
   </h2>
 </div>
 
