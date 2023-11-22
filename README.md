@@ -10,7 +10,7 @@
     </a>
     <br><br>
   <div style="text-align: center;">I'm Gary
-  <p style="text-align: center;">I used to play sports ⚾️...now I play computers 👨🏼‍💻</p>
+  <p style="text-align: center;">I used to play sports ⚾️ ...now I play computers 👨🏼‍💻</p>
   </div>
   <br><br>
   </h2>
