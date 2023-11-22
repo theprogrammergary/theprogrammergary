@@ -30,7 +30,7 @@
 <a target="_blank"> <img src="https://github.com/theprogrammergary/theprogrammergary/raw/main/src/windows.svg" alt="windows" width="40" height="40"/> </a> 
 <a target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
 <a target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="https://github.com/theprogrammergary/theprogrammergary/raw/main/src/github.svg" alt="github" width="40" height="40"/> </a> 
 <a target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
 <a target="_blank"> <img src="https://github.com/theprogrammergary/theprogrammergary/raw/main/src/postman.svg" alt="postman" width="40" height="40"/> </a> 
 <a target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> </a> 
