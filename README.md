@@ -9,8 +9,8 @@
       <img src="https://github.com/theprogrammergary/theprogrammergary/blob/main/src/Earth.gif" width="40px">
     </a>
     <br><br>
-  <div style="text-align: center;">I'm Gary 👨🏼‍💻
-  <p style="text-align: center;">I used to play sports...now I play computers</p>
+  <div style="text-align: center;">I'm Gary
+  <p style="text-align: center;">I used to play sports ⚾️...now I play computers 👨🏼‍💻</p>
   </div>
   <br><br>
   </h2>
