@@ -16,6 +16,13 @@
   </h2>
 </div>
 
+<br><br>
+## :book: About
+- 📚 I am a semi-self-taught freelance programmer (i took 3 classes in college)
+- 🧙🏻‍♂️ I work for a startup and have helped launch many other businesses 
+- 📈 I enjoy programming for financial markets
+- 🎓 I have a Bachelors Degree in Business Management
+- ⚾️ I played baseball in college 
 
 <p align="center"> 
 <a target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -35,6 +42,8 @@
 <a target="_blank"> <img src="https://github.com/theprogrammergary/theprogrammergary/raw/main/src/postman.svg" alt="postman" width="40" height="40"/> </a> 
 <a target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> </a> 
 <a target="_blank"> <img src="https://github.com/theprogrammergary/theprogrammergary/raw/main/src/nvidia-7.svg" alt="nvidia" width="40" height="40"/> </a> </p><h2></h2>
+<br><br>
+
 
 
 
