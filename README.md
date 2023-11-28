@@ -38,6 +38,7 @@
 <a target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
 <a target="_blank"> <img src="https://github.com/theprogrammergary/theprogrammergary/raw/main/src/postman.svg" alt="postman" width="40" height="40"/> </a> 
 <a target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> </a> 
+<a target="_blank"> <img src="https://github.com/theprogrammergary/theprogrammergary/raw/main/src/linode-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a target="_blank"> <img src="https://github.com/theprogrammergary/theprogrammergary/raw/main/src/nvidia-7.svg" alt="nvidia" width="40" height="40"/> </a> </p><h2></h2>
 <br><br>
 
