@@ -15,7 +15,6 @@
 
 :book: About
 - 📚 I am a semi-self-taught freelance programmer (i took some elective classes in college)
-- 🧙🏻‍♂️ I work for a startup and have helped launch many other businesses 
 - 📈 I enjoy programming for financial markets
 - 🎓 I have a Bachelors Degree in Business Administration
 - ⚾️ I played baseball in college 
