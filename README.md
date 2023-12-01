@@ -14,7 +14,7 @@
 </div>
 
 :book: About
-- 📚 I am a semi-self-taught freelance programmer (i took some elective classes in college)
+- 📚 I am a semi-self-taught freelance programmer (I took some elective classes in college)
 - 📈 I enjoy programming for financial markets
 - 🎓 I have a Bachelors Degree in Business Administration
 - ⚾️ I played baseball in college 
