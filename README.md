@@ -41,14 +41,8 @@
 <a target="_blank"> <img src="https://github.com/theprogrammergary/theprogrammergary/raw/main/src/nvidia-7.svg" alt="nvidia" width="40" height="40"/> </a> </p><h2></h2>
 <br><br>
 
-<div align="center">
-  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
-  <script type='text/javascript'>
-    kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'M4M6RTXS2');
-    kofiwidget2.draw();
-  </script>
-</div>
 
+<a href='https://ko-fi.com/M4M6RTXS2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
 
