@@ -11,6 +11,16 @@
   <p style="text-align: center;">I used to play sports ⚾️ ...now I play computers 👨🏼‍💻</p>
   </div>
   </h2>
+ <table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theprogrammergary&theme=github_dark" alt="Profile" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprogrammergary&theme=github_dark" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 </div>
 
 :book: About
@@ -48,16 +58,7 @@
 </div>
 <br><br>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theprogrammergary&theme=github_dark" alt="Profile" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprogrammergary&theme=github_dark" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+
 
 
 
