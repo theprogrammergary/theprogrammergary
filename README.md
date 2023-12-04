@@ -24,13 +24,13 @@
    
 </div>
 
-:book: About
-- 📚 I am a semi-self-taught freelance programmer (I took some elective classes in college)
-- 🎓 I have a Bachelors Degree in Business Administration
-- 📈 I enjoy programming for financial markets
-- ⚾️ I played baseball in college
-- 💡 Light mode is goated if you code during the day
-- 🧠 I have experience with these technologies below
+##:book: About
+#### - 📚 I am a semi-self-taught freelance programmer (I took some elective classes in college)
+#### - 🎓 I have a Bachelors Degree in Business Administration
+#### - 📈 I enjoy programming for financial markets
+#### - ⚾️ I played baseball in college
+#### - 💡 Light mode is goated if you code during the day
+#### - 🧠 I have experience with these technologies below
 
 <p align="center"> 
 <a target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
