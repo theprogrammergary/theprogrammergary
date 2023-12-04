@@ -39,7 +39,9 @@
 <a target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> </a> 
 <a target="_blank"> <img src="https://github.com/theprogrammergary/theprogrammergary/raw/main/src/linode-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a target="_blank"> <img src="https://github.com/theprogrammergary/theprogrammergary/raw/main/src/nvidia-7.svg" alt="nvidia" width="40" height="40"/> </a> </p><h2></h2>
- <a href='https://ko-fi.com/M4M6RTXS2' target='_blank'><img height='24' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<div align="center">
+  <a href='https://ko-fi.com/M4M6RTXS2' target='_blank'><img height='24' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 <br><br>
 <div align="center">
   <a href='https://ko-fi.com/M4M6RTXS2' target='_blank'><img height='24' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
