@@ -24,7 +24,7 @@
    
 </div>
 
-## 👨🏼‍💻 About
+### 👨🏼‍💻 About
 
 - 📚 I am a semi-self-taught freelance programmer (I took some elective classes in college)
 - 🎓 I have a Bachelors Degree in Business Administration
@@ -54,7 +54,6 @@
 <a target="_blank"> <img src="https://github.com/theprogrammergary/theprogrammergary/raw/main/src/linode-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a target="_blank"> <img src="https://github.com/theprogrammergary/theprogrammergary/raw/main/src/nvidia-7.svg" alt="nvidia" width="40" height="40"/> </a> </p>
 <h2></h2>
-<br><br>
 
 <h3 align="center"> Contact Me 📱</h3>
 <div align="center">
