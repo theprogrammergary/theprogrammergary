@@ -1,6 +1,6 @@
  <h1></h1>
 <div align="center">
-  <h2>
+  <h3>
     <a target="_blank">
       <img src="https://github.com/theprogrammergary/theprogrammergary/blob/main/src/Hi.gif" width="40px">
     </a>
@@ -20,8 +20,7 @@
     </td>
   </tr>
 </table>
-
-  </h2>
+  </h3>
    
 </div>
 
@@ -33,7 +32,8 @@
 - ⚾️ I played baseball in college
 - 💡 Light mode is goated if you code during the day
 - 🧠 I have experience with these technologies below
-<br><br>
+  <br><br>
+
 <p align="center"> 
 <a target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -56,11 +56,9 @@
 <h2></h2>
 <br><br>
 
+<h3 align="center"> Contact Me 📱</h3>
 <div align="center">
-  <h3 align="center"> Contact Me 📱</h3>
-  <a href='mailto:theprogrammergary@gmail.com' style='text-decoration: none;'>
-    <div style='overflow: hidden; display: inline-block;'>
-      <img height='36' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' border='0' alt='Email me' />
+  <a href='mailto:theprogrammergary@gmail.com' target='_blank'><img height='24' style='border:0px;height:36px;' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' border='0' alt='Email Contact' /></a>
   <a href='https://ko-fi.com/M4M6RTXS2' target='_blank'><img height='24' style='border:0px;height:36px;' src='https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 <br><br>
