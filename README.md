@@ -43,7 +43,7 @@
   <a href='mailto:theprogrammergary@gmail.com' style='text-decoration: none;'>
     <div style='border-radius: 50%; overflow: hidden; display: inline-block;'>
       <img height='36' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' border='0' alt='Email me' />
-  <a href='https://ko-fi.com/M4M6RTXS2' target='_blank'><img height='24' style='border:0px;height:36px;' src='[https://storage.ko-fi.com/cdn/kofi2.png?v=2](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href='https://ko-fi.com/M4M6RTXS2' target='_blank'><img height='24' style='border:0px;height:36px;' src='https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 <br><br>
 
