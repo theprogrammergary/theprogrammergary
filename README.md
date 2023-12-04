@@ -43,9 +43,6 @@
   <a href='https://ko-fi.com/M4M6RTXS2' target='_blank'><img height='24' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 <br><br>
-<div align="center">
-  <a href='https://ko-fi.com/M4M6RTXS2' target='_blank'><img height='24' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 
 
