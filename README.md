@@ -10,7 +10,7 @@
   <div style="text-align: center;">I'm Gary
   <p style="text-align: center;">I used to play sports ⚾️ ...now I play computers 👨🏼‍💻</p>
   </div>
-<table style="border: 0;">
+<table style="border: 3;">
   <tr>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theprogrammergary&theme=github_dark" alt="Profile" />
