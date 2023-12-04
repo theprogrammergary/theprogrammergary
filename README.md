@@ -47,7 +47,7 @@
 </div>
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theprogrammergary)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theprogrammergary&theme={gruvbox})
 
 
 
