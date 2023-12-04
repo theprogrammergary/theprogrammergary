@@ -10,7 +10,6 @@
   <div style="text-align: center;">I'm Gary
   <p style="text-align: center;">I used to play sports ⚾️ ...now I play computers 👨🏼‍💻</p>
   </div>
-  </h2>
 <table style="border: 0;">
   <tr>
     <td>
@@ -21,6 +20,8 @@
     </td>
   </tr>
 </table>
+  </h2>
+   
 </div>
 
 :book: About
