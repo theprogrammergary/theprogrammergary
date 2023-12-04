@@ -48,8 +48,8 @@
 </div>
 <br><br>
 
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theprogrammergary&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theprogrammergary&theme=gruvbox)
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theprogrammergary&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theprogrammergary&theme=github_dark)
 
 
 
