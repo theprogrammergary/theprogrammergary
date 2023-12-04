@@ -11,7 +11,7 @@
   <p style="text-align: center;">I used to play sports ⚾️ ...now I play computers 👨🏼‍💻</p>
   </div>
   </h2>
-<table style="border-collapse: collapse;">
+<table style="border: 0;">
   <tr>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theprogrammergary&theme=github_dark" alt="Profile" />
