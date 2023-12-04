@@ -24,7 +24,7 @@
    
 </div>
 
-##:book: About
+:book: ###About
 #### - 📚 I am a semi-self-taught freelance programmer (I took some elective classes in college)
 #### - 🎓 I have a Bachelors Degree in Business Administration
 #### - 📈 I enjoy programming for financial markets
