@@ -41,10 +41,4 @@
 
 <h2></h2>
 
-<h3 align="center"> Contact Me 📱</h3>
-<div align="center">
-  <a href='mailto:theprogrammergary@gmail.com' target='_blank'><img height='24' style='border:0px;height:36px;' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' border='0' alt='Email Contact' /></a>
-  <a href='https://ko-fi.com/M4M6RTXS2' target='_blank'><img height='24' style='border:0px;height:36px;' src='https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-<br><br>
- <br><br>
+
